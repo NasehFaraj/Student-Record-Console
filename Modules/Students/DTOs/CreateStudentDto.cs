@@ -1,4 +1,4 @@
-namespace StudentRecordConsole.Modules.Students.DTOs;
+namespace CSharp_SOLID_Architecture.Modules.Students.DTOs;
 
 public class CreateStudentDto
 {

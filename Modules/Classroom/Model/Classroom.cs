@@ -1,6 +1,6 @@
-using StudentRecordConsole.Modules.Students.Model;
+using CSharp_SOLID_Architecture.Modules.Students.Model;
 
-namespace StudentRecordConsole.Modules.Classroom.Model;
+namespace CSharp_SOLID_Architecture.Modules.Classroom.Model;
 public class Classroom
 {
     

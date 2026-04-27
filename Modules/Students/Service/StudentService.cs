@@ -1,7 +1,7 @@
-using StudentRecordConsole.Modules.Students.DTOs;
-using StudentRecordConsole.Modules.Students.Model;
+using CSharp_SOLID_Architecture.Modules.Students.DTOs;
+using CSharp_SOLID_Architecture.Modules.Students.Model;
 
-namespace StudentRecordConsole.Modules.Students.Service;
+namespace CSharp_SOLID_Architecture.Modules.Students.Service;
 class StudentService
 {
     

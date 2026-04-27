@@ -1,4 +1,4 @@
-# StudentRecordConsole
+# CSharp-SOLID-Architecture
 
 A simple C# console application for managing student records.
 
@@ -26,4 +26,3 @@ This project is used to practice:
 - C#
 - .NET 8
 - Console Application
-

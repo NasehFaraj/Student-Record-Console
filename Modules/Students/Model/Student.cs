@@ -1,4 +1,4 @@
-namespace StudentRecordConsole.Modules.Students.Model;
+namespace CSharp_SOLID_Architecture.Modules.Students.Model;
 
 public class Student
 {
